@@ -1,0 +1,3 @@
+rootProject.name = 'SensorInsights'
+
+include ':app'
