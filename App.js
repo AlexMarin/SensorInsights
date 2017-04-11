@@ -1,21 +1,12 @@
 import React, { Component } from 'react';
-import {
-  AppRegistry,
-  Text
-} from 'react-native';
-import { StackNavigator } from 'react-navigation';
+import { AppRegistry } from 'react-native';
 
-class HomeScreen extends Component {
-  static navigationOptions = {
-    title: 'Welcome'
-  };
+import { AppNav } from './app/config/router';
+
+export default class App extends Component {
   render() {
-    return <Text>Sensors</Text>;
+    return <AppNav />;
   }
 }
 
-const SensorInsights = StackNavigator({
-  Home: { screen: HomeScreen },
-});
-
-AppRegistry.registerComponent('SensorInsights', () => SensorInsights);
+AppRegistry.registerComponent('SensorInsights', () => App);
