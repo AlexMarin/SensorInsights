@@ -10,14 +10,15 @@ import SimpleList from '../components/SimpleList';
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1
+    flex: 1,
   },
   headerText: {
     textAlign: 'center',
     fontSize: 20,
     fontWeight: 'bold',
     padding: 20,
-    color: '#333'
+    color: '#333',
+    backgroundColor: 'white'
   }
 });
 

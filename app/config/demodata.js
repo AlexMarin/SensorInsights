@@ -502,502 +502,602 @@ export const SensorData = [{
 
 export const PacientData = [{
   "id": 1,
-  "firstName": "Gloria",
-  "lastName": "Wright",
-  "assocSensor": "ALLANTOIN"
+  "firstName": "Steven",
+  "lastName": "Coleman",
+  "assocSensor": "Baptisia tinctoria, Echinacea, Phytolacca decandra, Aconitum napellus, Arsenicum album, Belladonna, Ferrum phosphoricum, Lachesis mutus, Phosphorus,",
+  "connectedToSensor": true
 }, {
   "id": 2,
-  "firstName": "Jennifer",
-  "lastName": "Garrett",
-  "assocSensor": "Zinc Oxide"
+  "firstName": "Sandra",
+  "lastName": "Mason",
+  "assocSensor": "Acetaminophen",
+  "connectedToSensor": true
 }, {
   "id": 3,
-  "firstName": "George",
-  "lastName": "Cooper",
-  "assocSensor": "Hydrocortisone"
+  "firstName": "Donna",
+  "lastName": "Morales",
+  "assocSensor": "Vanilla",
+  "connectedToSensor": false
 }, {
   "id": 4,
-  "firstName": "Angela",
-  "lastName": "Hernandez",
-  "assocSensor": "fexofenadine hydrochloride and pseudoephedrine hydrochloride"
+  "firstName": "Ruby",
+  "lastName": "Fuller",
+  "assocSensor": "Titanium Dioxide, Zinc Oxide",
+  "connectedToSensor": true
 }, {
   "id": 5,
-  "firstName": "Jennifer",
-  "lastName": "Reid",
-  "assocSensor": "TRICLOSAN"
+  "firstName": "Marilyn",
+  "lastName": "Mitchell",
+  "assocSensor": "LAMOTRIGINE",
+  "connectedToSensor": false
 }, {
   "id": 6,
-  "firstName": "Elizabeth",
-  "lastName": "Duncan",
-  "assocSensor": "Testosterone Cypionate"
+  "firstName": "Wayne",
+  "lastName": "Hanson",
+  "assocSensor": "Berberis Aquifolium, Calendula Officinalis, Hydrocotyle Asiatica, Thuja Occidentalis, Borax, Natrum Muriaticum",
+  "connectedToSensor": false
 }, {
   "id": 7,
-  "firstName": "Ruby",
-  "lastName": "Rose",
-  "assocSensor": "AVOBENZONE, OCTINOXATE, and OCTOCRYLENE"
+  "firstName": "Eric",
+  "lastName": "Holmes",
+  "assocSensor": "Diclofenac Sodium",
+  "connectedToSensor": true
 }, {
   "id": 8,
-  "firstName": "Martin",
-  "lastName": "Davis",
-  "assocSensor": "Warfarin Sodium"
+  "firstName": "Brian",
+  "lastName": "Jordan",
+  "assocSensor": "Sodium Fluoride",
+  "connectedToSensor": true
 }, {
   "id": 9,
-  "firstName": "George",
-  "lastName": "Nelson",
-  "assocSensor": "AVOBENZONE OCTOCRYLENE OXYBENZONE"
+  "firstName": "Lawrence",
+  "lastName": "Russell",
+  "assocSensor": "Phentermine Hydrochloride",
+  "connectedToSensor": false
 }, {
   "id": 10,
-  "firstName": "Gloria",
-  "lastName": "Garcia",
-  "assocSensor": "Irbesartan and Hydrochlorothiazide"
+  "firstName": "Janet",
+  "lastName": "Howell",
+  "assocSensor": "candida albicans",
+  "connectedToSensor": false
 }, {
   "id": 11,
-  "firstName": "Albert",
-  "lastName": "Larson",
-  "assocSensor": "TRAMETES VERSICOLOR FRUITING BODY"
+  "firstName": "Lori",
+  "lastName": "Turner",
+  "assocSensor": "fenofibrate",
+  "connectedToSensor": false
 }, {
   "id": 12,
-  "firstName": "Gloria",
-  "lastName": "Harris",
-  "assocSensor": "PYRITHIONE ZINC"
+  "firstName": "Wayne",
+  "lastName": "Kennedy",
+  "assocSensor": "Adenosinum cyclophosphoricum, Apiolum, L-DOPA, Melatonin, Pineal (Suis), Thalamus opticus (Suis), Viscum album,",
+  "connectedToSensor": false
 }, {
   "id": 13,
-  "firstName": "Nancy",
-  "lastName": "Price",
-  "assocSensor": "Bacitracin, Neomycin, Polymyxin B, Pramoxine HCl"
+  "firstName": "Heather",
+  "lastName": "Perkins",
+  "assocSensor": "dorzolamide hydrochloride",
+  "connectedToSensor": true
 }, {
   "id": 14,
-  "firstName": "Billy",
-  "lastName": "Hart",
-  "assocSensor": "Acetaminophen, Chlorpheniramine maleate, Phenylephrine HCl"
+  "firstName": "Sarah",
+  "lastName": "Ford",
+  "assocSensor": "Stemphylium",
+  "connectedToSensor": false
 }, {
   "id": 15,
-  "firstName": "Eugene",
-  "lastName": "Murphy",
-  "assocSensor": "Salicylic Acid"
+  "firstName": "Norma",
+  "lastName": "Sullivan",
+  "assocSensor": "HYDROCODONE, ACETAMINOPHEN, .GAMMA.-AMINOBUTYRIC ACID",
+  "connectedToSensor": false
 }, {
   "id": 16,
-  "firstName": "Melissa",
-  "lastName": "Dunn",
-  "assocSensor": "dextromethorphan polistirex"
+  "firstName": "Philip",
+  "lastName": "Stewart",
+  "assocSensor": "mycobacterium phlei",
+  "connectedToSensor": true
 }, {
   "id": 17,
-  "firstName": "Jacqueline",
-  "lastName": "Shaw",
-  "assocSensor": "Enoxaparin Sodium"
+  "firstName": "Melissa",
+  "lastName": "Ford",
+  "assocSensor": "albuterol sulfate",
+  "connectedToSensor": true
 }, {
   "id": 18,
-  "firstName": "Ralph",
-  "lastName": "Bailey",
-  "assocSensor": "Belladonna, Carduus Marianus, Chelidonium Majus, Colocynthis, Lycopodium Clavatum, Natrum Sulphuricum, Nux Vomica, Phosphorus, Pulsatilla, Veratrum Album"
+  "firstName": "Carlos",
+  "lastName": "Duncan",
+  "assocSensor": "phenytoin sodium",
+  "connectedToSensor": false
 }, {
   "id": 19,
-  "firstName": "Michelle",
-  "lastName": "Gordon",
-  "assocSensor": "Miconazole nitrate"
+  "firstName": "Cynthia",
+  "lastName": "Nguyen",
+  "assocSensor": "sumatriptan succinate",
+  "connectedToSensor": false
 }, {
   "id": 20,
-  "firstName": "Lois",
-  "lastName": "Clark",
-  "assocSensor": "Loperamide HCl"
+  "firstName": "Michael",
+  "lastName": "Olson",
+  "assocSensor": "Zinc Oxide",
+  "connectedToSensor": true
 }, {
   "id": 21,
-  "firstName": "Eric",
-  "lastName": "Little",
-  "assocSensor": "Nitrofurantoin Monohydrate/Macrocrystalline"
+  "firstName": "Sean",
+  "lastName": "Harper",
+  "assocSensor": "CEFTRIAXONE",
+  "connectedToSensor": false
 }, {
   "id": 22,
-  "firstName": "Roger",
-  "lastName": "Sullivan",
-  "assocSensor": "Drosera 30C, Spongia 30C, Kali Carbonicum 30C, Phospherous 30C, Ipecacuhuana 30C, Pulsatilla 30C, Belladonna 30C"
+  "firstName": "Jean",
+  "lastName": "Ruiz",
+  "assocSensor": "PredniSONE",
+  "connectedToSensor": false
 }, {
   "id": 23,
-  "firstName": "Douglas",
-  "lastName": "Chapman",
-  "assocSensor": "Meloxicam"
+  "firstName": "Jerry",
+  "lastName": "Warren",
+  "assocSensor": "Pyrithione Zinc",
+  "connectedToSensor": false
 }, {
   "id": 24,
-  "firstName": "Jason",
-  "lastName": "Nichols",
-  "assocSensor": "Metronidazole"
+  "firstName": "Janice",
+  "lastName": "Thompson",
+  "assocSensor": "Levofloxacin",
+  "connectedToSensor": false
 }, {
   "id": 25,
-  "firstName": "Tina",
-  "lastName": "Coleman",
-  "assocSensor": "Levothyroxine Sodium"
+  "firstName": "Barbara",
+  "lastName": "Ford",
+  "assocSensor": "Naproxen sodium",
+  "connectedToSensor": true
 }, {
   "id": 26,
-  "firstName": "Christine",
-  "lastName": "Kim",
-  "assocSensor": "ALCOHOL"
+  "firstName": "Jane",
+  "lastName": "Lane",
+  "assocSensor": "Oxygen",
+  "connectedToSensor": false
 }, {
   "id": 27,
-  "firstName": "Jose",
-  "lastName": "Jones",
-  "assocSensor": "ANTIMONY TRISULFIDE"
+  "firstName": "Gerald",
+  "lastName": "Austin",
+  "assocSensor": "polymyxin B sulfate, trimethoprim sulfate",
+  "connectedToSensor": true
 }, {
   "id": 28,
-  "firstName": "Samuel",
-  "lastName": "Robinson",
-  "assocSensor": "clotrimazole"
+  "firstName": "Paul",
+  "lastName": "Austin",
+  "assocSensor": "Dextromethorphan HBr, Guaifenesin and Pseudoephedrine HCl",
+  "connectedToSensor": true
 }, {
   "id": 29,
-  "firstName": "Todd",
-  "lastName": "Harvey",
-  "assocSensor": "CYCLOBENZAPRINE HYDROCHLORIDE"
+  "firstName": "Jose",
+  "lastName": "Welch",
+  "assocSensor": "Oxygen",
+  "connectedToSensor": false
 }, {
   "id": 30,
-  "firstName": "Jessica",
-  "lastName": "Graham",
-  "assocSensor": "Ibuprofen"
+  "firstName": "Carol",
+  "lastName": "Gibson",
+  "assocSensor": "Dimethicone",
+  "connectedToSensor": false
 }, {
   "id": 31,
-  "firstName": "Wanda",
-  "lastName": "Mitchell",
-  "assocSensor": "acetaminophen, dextromethorphan hydrobromide and doxylamine succinate"
+  "firstName": "Lois",
+  "lastName": "Morrison",
+  "assocSensor": "gentamicin sulfate",
+  "connectedToSensor": false
 }, {
   "id": 32,
-  "firstName": "Irene",
-  "lastName": "Stanley",
-  "assocSensor": "ALCOHOL"
+  "firstName": "Walter",
+  "lastName": "Cox",
+  "assocSensor": "Chlorhexidine Gluconate",
+  "connectedToSensor": true
 }, {
   "id": 33,
-  "firstName": "Steve",
-  "lastName": "Fernandez",
-  "assocSensor": "Amoxicillin"
+  "firstName": "Alice",
+  "lastName": "Chavez",
+  "assocSensor": "clindamycin phosphate",
+  "connectedToSensor": false
 }, {
   "id": 34,
-  "firstName": "Raymond",
-  "lastName": "Morris",
-  "assocSensor": "Aluminum Sesquichlorohydrate"
+  "firstName": "Jeffrey",
+  "lastName": "Chavez",
+  "assocSensor": "clonazepam",
+  "connectedToSensor": false
 }, {
   "id": 35,
-  "firstName": "Katherine",
-  "lastName": "Ortiz",
-  "assocSensor": "Dimethicone"
+  "firstName": "Evelyn",
+  "lastName": "Snyder",
+  "assocSensor": "amlodipine besylate and valsartan",
+  "connectedToSensor": false
 }, {
   "id": 36,
-  "firstName": "Billy",
-  "lastName": "Mccoy",
-  "assocSensor": "Chamomilla, Coffea cruda, Arsenicum album, Ignatia amara, Lycopodium clavatum, Natrum muriaticum, Nux vomica, Gelsemium sempervirens, Valeriana officinalis,"
+  "firstName": "James",
+  "lastName": "Perez",
+  "assocSensor": "valsartan and hydrochlorothiazide",
+  "connectedToSensor": false
 }, {
   "id": 37,
-  "firstName": "Lisa",
-  "lastName": "Boyd",
-  "assocSensor": "Acetaminophen, Dextromethorphan HBr, Doxylamine succinate"
+  "firstName": "Debra",
+  "lastName": "Weaver",
+  "assocSensor": "Phenytoin",
+  "connectedToSensor": true
 }, {
   "id": 38,
-  "firstName": "Ann",
-  "lastName": "Rice",
-  "assocSensor": "Lidocaine Hydrochloride"
+  "firstName": "Robert",
+  "lastName": "Carr",
+  "assocSensor": "Doxycycline Hyclate",
+  "connectedToSensor": false
 }, {
   "id": 39,
-  "firstName": "Philip",
-  "lastName": "Mason",
-  "assocSensor": "Trazodone Hydrochloride"
+  "firstName": "Dorothy",
+  "lastName": "Turner",
+  "assocSensor": "Acetaminophen, Diphenhydramine hydrochloride, and Phenylephrine hydrochloride",
+  "connectedToSensor": true
 }, {
   "id": 40,
-  "firstName": "Barbara",
-  "lastName": "Jordan",
-  "assocSensor": "Arg nit, Arsenicum iod, Hyoscyamus, Veratrum alb"
+  "firstName": "Victor",
+  "lastName": "Bell",
+  "assocSensor": "Treatment Set TS348283",
+  "connectedToSensor": false
 }, {
   "id": 41,
-  "firstName": "Patricia",
-  "lastName": "Wood",
-  "assocSensor": "TITANIUM DIOXIDE"
+  "firstName": "Irene",
+  "lastName": "Mcdonald",
+  "assocSensor": "ACONITUM NAPELLUS ROOT",
+  "connectedToSensor": false
 }, {
   "id": 42,
-  "firstName": "Jason",
-  "lastName": "Turner",
-  "assocSensor": "hydrocodone bitartrate"
+  "firstName": "Mark",
+  "lastName": "Clark",
+  "assocSensor": "Capsicum Annuum, Arnica Montana, Hypericum",
+  "connectedToSensor": true
 }, {
   "id": 43,
-  "firstName": "Ronald",
-  "lastName": "Ortiz",
-  "assocSensor": "Minocycline Hydrochloride"
+  "firstName": "Joyce",
+  "lastName": "Taylor",
+  "assocSensor": "Acetaminophen",
+  "connectedToSensor": false
 }, {
   "id": 44,
-  "firstName": "Jane",
-  "lastName": "Reid",
-  "assocSensor": "Warfarin Sodium"
+  "firstName": "Antonio",
+  "lastName": "Turner",
+  "assocSensor": "Guanfacine Hydrochloride",
+  "connectedToSensor": false
 }, {
   "id": 45,
-  "firstName": "Carlos",
-  "lastName": "Morales",
-  "assocSensor": "Spironolactone"
+  "firstName": "Cynthia",
+  "lastName": "Willis",
+  "assocSensor": "Avobenzone Octisalate Octocrylene",
+  "connectedToSensor": true
 }, {
   "id": 46,
-  "firstName": "Kathy",
-  "lastName": "Collins",
-  "assocSensor": "Nicotine Polacrilex"
+  "firstName": "Roger",
+  "lastName": "Ross",
+  "assocSensor": "adefovir dipivoxil",
+  "connectedToSensor": false
 }, {
   "id": 47,
-  "firstName": "Debra",
-  "lastName": "Franklin",
-  "assocSensor": "DIPHENHYDRAMINE HYDROCHLORIDE 50 mg"
+  "firstName": "Virginia",
+  "lastName": "Dixon",
+  "assocSensor": "EUCALYPTOL, MENTHOL, METHYL SALICYLATE, THYMOL",
+  "connectedToSensor": false
 }, {
   "id": 48,
-  "firstName": "Matthew",
-  "lastName": "Ward",
-  "assocSensor": "OCTINOXATE, TITANIUM DIOXIDE"
+  "firstName": "Edward",
+  "lastName": "Griffin",
+  "assocSensor": "Alcohol",
+  "connectedToSensor": false
 }, {
   "id": 49,
   "firstName": "Kathy",
-  "lastName": "Olson",
-  "assocSensor": "Tag Alder"
+  "lastName": "Shaw",
+  "assocSensor": "Isopropyl alcohol swabstick",
+  "connectedToSensor": true
 }, {
   "id": 50,
-  "firstName": "Julie",
-  "lastName": "Morgan",
-  "assocSensor": "Melatonin,"
+  "firstName": "Richard",
+  "lastName": "Robinson",
+  "assocSensor": "Acetaminophen",
+  "connectedToSensor": false
 }, {
   "id": 51,
-  "firstName": "Beverly",
-  "lastName": "Crawford",
-  "assocSensor": "Amoxicillin"
+  "firstName": "Michael",
+  "lastName": "Harrison",
+  "assocSensor": "PROMETHAZINE HYDROCHLORIDE",
+  "connectedToSensor": false
 }, {
   "id": 52,
-  "firstName": "Brandon",
-  "lastName": "Taylor",
-  "assocSensor": "Gaba, L-Dopa, Norepinephrine, Serotonin, Adrenocorticotrophin, Anacardium Orientale, Arsenicum Album, Baryta Carbonica, Calcarea Carbonica, Calcarea Phosphorica, Hyoscyamus Niger, Lycopodium Clavatum"
+  "firstName": "Victor",
+  "lastName": "Ortiz",
+  "assocSensor": "ALCOHOL",
+  "connectedToSensor": false
 }, {
   "id": 53,
-  "firstName": "William",
-  "lastName": "Powell",
-  "assocSensor": "everolimus"
+  "firstName": "Juan",
+  "lastName": "Hansen",
+  "assocSensor": "ropinirole",
+  "connectedToSensor": false
 }, {
   "id": 54,
-  "firstName": "Wayne",
-  "lastName": "Rogers",
-  "assocSensor": "Avobenzone, Octinoxate, Octisalate"
+  "firstName": "Melissa",
+  "lastName": "Carpenter",
+  "assocSensor": "Oxazepam",
+  "connectedToSensor": false
 }, {
   "id": 55,
-  "firstName": "Jessica",
-  "lastName": "Parker",
-  "assocSensor": "diphenhydramine citrate, ibuprofen"
+  "firstName": "Terry",
+  "lastName": "Ramirez",
+  "assocSensor": "Quinine Sulfate",
+  "connectedToSensor": false
 }, {
   "id": 56,
-  "firstName": "Arthur",
-  "lastName": "Burton",
-  "assocSensor": "Isosorbide Dinitrate"
+  "firstName": "Louis",
+  "lastName": "Pierce",
+  "assocSensor": "OCTINOXATE, TITANIUM DIOXIDE, and ZINC OXIDE",
+  "connectedToSensor": true
 }, {
   "id": 57,
-  "firstName": "Paula",
-  "lastName": "Morgan",
-  "assocSensor": "DEXTROMETHORPHAN HYDROBROMIDE, GUAIFENESIN, and PHENYLEPHRINE HYDROCHLORIDE"
+  "firstName": "Robert",
+  "lastName": "Graham",
+  "assocSensor": "Titanium Dioxide and Zinc Oxide",
+  "connectedToSensor": false
 }, {
   "id": 58,
-  "firstName": "Jacqueline",
-  "lastName": "Turner",
-  "assocSensor": "Medicated Lotion Soap"
+  "firstName": "Alice",
+  "lastName": "Kennedy",
+  "assocSensor": "Naproxen Sodium",
+  "connectedToSensor": true
 }, {
   "id": 59,
-  "firstName": "Mary",
-  "lastName": "Boyd",
-  "assocSensor": "SILVER NITRATE, FERULA SUMBUL ROOT, ACTIVATED CHARCOAL, CHAMOMILE, CINCHONA OFFICINALIS BARK, CITRULLUS COLOCYNTHIS FRUIT, LYCOPODIUM CLAVATUM SPORE, NUTMEG, and SEPIA OFFICINALIS JUICE"
+  "firstName": "Keith",
+  "lastName": "Walker",
+  "assocSensor": "Aluminum Zirconium Tetrachlorohydrex GLY",
+  "connectedToSensor": false
 }, {
   "id": 60,
-  "firstName": "Mildred",
-  "lastName": "Owens",
-  "assocSensor": "ANTIMONY PENTASULFIDE, BRYONIA ALBA ROOT, DROSERA ROTUNDIFOLIA, EUCALYPTUS GLOBULUS LEAF, IPECAC, STAR ANISE"
+  "firstName": "Kathleen",
+  "lastName": "Anderson",
+  "assocSensor": "Simvastatin",
+  "connectedToSensor": false
 }, {
   "id": 61,
-  "firstName": "Louise",
-  "lastName": "Hansen",
-  "assocSensor": "ATORVASTATIN CALCIUM"
+  "firstName": "Virginia",
+  "lastName": "Perez",
+  "assocSensor": "Theophylline",
+  "connectedToSensor": true
 }, {
   "id": 62,
-  "firstName": "Judy",
-  "lastName": "Gutierrez",
-  "assocSensor": "Hydrochlorothiazide"
+  "firstName": "Joseph",
+  "lastName": "Robertson",
+  "assocSensor": "Ibuprofen",
+  "connectedToSensor": false
 }, {
   "id": 63,
-  "firstName": "Wayne",
-  "lastName": "Henry",
-  "assocSensor": "diphenoxylate hydrochloride and atropine sulfate"
+  "firstName": "Kelly",
+  "lastName": "Black",
+  "assocSensor": "Naproxen Sodium",
+  "connectedToSensor": false
 }, {
   "id": 64,
-  "firstName": "Joyce",
-  "lastName": "Kelley",
-  "assocSensor": "Acetaminophen, Diphenhydramine HCl"
+  "firstName": "Peter",
+  "lastName": "Price",
+  "assocSensor": "ethanol",
+  "connectedToSensor": false
 }, {
   "id": 65,
-  "firstName": "Janice",
-  "lastName": "Wilson",
-  "assocSensor": "Ibuprofen"
+  "firstName": "Kelly",
+  "lastName": "Clark",
+  "assocSensor": "TITANIUM DIOXIDE, OCTINOXATE",
+  "connectedToSensor": false
 }, {
   "id": 66,
-  "firstName": "Anthony",
-  "lastName": "Welch",
-  "assocSensor": "Sodium Fluoride"
+  "firstName": "Katherine",
+  "lastName": "Gilbert",
+  "assocSensor": "HAND SANITIZER",
+  "connectedToSensor": false
 }, {
   "id": 67,
-  "firstName": "Ryan",
-  "lastName": "Reed",
-  "assocSensor": "Duloxetine"
+  "firstName": "Louise",
+  "lastName": "Nichols",
+  "assocSensor": "Quetiapine fumarate",
+  "connectedToSensor": false
 }, {
   "id": 68,
-  "firstName": "Joe",
-  "lastName": "Fowler",
-  "assocSensor": "Aluminum Zirconium Tetrachlorohydrex GLY"
+  "firstName": "Emily",
+  "lastName": "Jacobs",
+  "assocSensor": "Buspirone hydrochloride",
+  "connectedToSensor": false
 }, {
   "id": 69,
-  "firstName": "Susan",
-  "lastName": "Wright",
-  "assocSensor": "loteprednol etabonate"
+  "firstName": "Linda",
+  "lastName": "Webb",
+  "assocSensor": "Lorazepam",
+  "connectedToSensor": false
 }, {
   "id": 70,
-  "firstName": "Joshua",
-  "lastName": "Mcdonald",
-  "assocSensor": "ALCOHOL"
+  "firstName": "Alice",
+  "lastName": "Anderson",
+  "assocSensor": "Erythropoietin",
+  "connectedToSensor": true
 }, {
   "id": 71,
-  "firstName": "Helen",
-  "lastName": "Bryant",
-  "assocSensor": "Viscum Echinacea"
+  "firstName": "Kenneth",
+  "lastName": "Lawson",
+  "assocSensor": "MENTHOL",
+  "connectedToSensor": false
 }, {
   "id": 72,
-  "firstName": "Jason",
-  "lastName": "Turner",
-  "assocSensor": "Omeprazole"
+  "firstName": "Samuel",
+  "lastName": "Robinson",
+  "assocSensor": "Benzphetamine Hydrochloride",
+  "connectedToSensor": true
 }, {
   "id": 73,
-  "firstName": "Raymond",
-  "lastName": "Morales",
-  "assocSensor": "Acetaminophen"
+  "firstName": "Nancy",
+  "lastName": "Welch",
+  "assocSensor": "Warfarin Sodium",
+  "connectedToSensor": true
 }, {
   "id": 74,
-  "firstName": "Mark",
-  "lastName": "Thomas",
-  "assocSensor": "Benzocaine"
+  "firstName": "Norma",
+  "lastName": "Williamson",
+  "assocSensor": "Isopropyl Alcohol",
+  "connectedToSensor": false
 }, {
   "id": 75,
-  "firstName": "Beverly",
-  "lastName": "Fowler",
-  "assocSensor": "salicylic acid"
+  "firstName": "James",
+  "lastName": "Taylor",
+  "assocSensor": "Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate",
+  "connectedToSensor": true
 }, {
   "id": 76,
-  "firstName": "Amy",
-  "lastName": "Bradley",
-  "assocSensor": "Vinorelbine"
+  "firstName": "Andrew",
+  "lastName": "Nguyen",
+  "assocSensor": "Octinoxate Titanium Dioxide",
+  "connectedToSensor": false
 }, {
   "id": 77,
-  "firstName": "Teresa",
-  "lastName": "Graham",
-  "assocSensor": "Serotonin"
+  "firstName": "Patricia",
+  "lastName": "Schmidt",
+  "assocSensor": "Sodium Fluoride",
+  "connectedToSensor": false
 }, {
   "id": 78,
-  "firstName": "William",
-  "lastName": "Davis",
-  "assocSensor": "Benzocaine"
+  "firstName": "Shawn",
+  "lastName": "Taylor",
+  "assocSensor": "TRUEplus diabetics intensive moisturizing",
+  "connectedToSensor": true
 }, {
   "id": 79,
-  "firstName": "Scott",
-  "lastName": "Kennedy",
-  "assocSensor": "Lorazepam"
+  "firstName": "Laura",
+  "lastName": "Harris",
+  "assocSensor": "Green (String) Bean",
+  "connectedToSensor": true
 }, {
   "id": 80,
-  "firstName": "Elizabeth",
-  "lastName": "Wilson",
-  "assocSensor": "Iodine Bush"
+  "firstName": "Christina",
+  "lastName": "Hamilton",
+  "assocSensor": "Avobenzone, Homosalate, Octisalate, and Octocrylene",
+  "connectedToSensor": true
 }, {
   "id": 81,
-  "firstName": "Larry",
-  "lastName": "Ramos",
-  "assocSensor": "Octinoxate Titanium Dioxide"
+  "firstName": "Alan",
+  "lastName": "Owens",
+  "assocSensor": "MIDAZOLAM HYDROCHLORIDE",
+  "connectedToSensor": false
 }, {
   "id": 82,
-  "firstName": "Christopher",
-  "lastName": "Cox",
-  "assocSensor": "ALCOHOL FREE HAND SANITIZER"
+  "firstName": "Richard",
+  "lastName": "Howell",
+  "assocSensor": "Orange",
+  "connectedToSensor": true
 }, {
   "id": 83,
-  "firstName": "Larry",
-  "lastName": "Ramos",
-  "assocSensor": "ETHYL ALCOHOL"
+  "firstName": "Sharon",
+  "lastName": "Fox",
+  "assocSensor": "phenylephrine hcl, brompheniramine maleate",
+  "connectedToSensor": false
 }, {
   "id": 84,
-  "firstName": "Samuel",
-  "lastName": "Stewart",
-  "assocSensor": "guaifenesin"
+  "firstName": "Carl",
+  "lastName": "Reyes",
+  "assocSensor": "Eucalyptol",
+  "connectedToSensor": true
 }, {
   "id": 85,
-  "firstName": "Julie",
-  "lastName": "Bennett",
-  "assocSensor": "Sulindac"
+  "firstName": "Marie",
+  "lastName": "Perry",
+  "assocSensor": "Ampicillin Sodium",
+  "connectedToSensor": true
 }, {
   "id": 86,
-  "firstName": "Jacqueline",
-  "lastName": "Kelly",
-  "assocSensor": "Horse chestnut,Antimony trisulfide,Silver nitrate,Arnica montana,Berberis vulgaris root bark,Activated charcoal,Ceanothus americanus leaf,Cholesterol,Cinchona officinalis bark,Artichoke,Equisetum arve"
+  "firstName": "Jack",
+  "lastName": "Lane",
+  "assocSensor": "CARVEDILOL, ARGININE",
+  "connectedToSensor": false
 }, {
   "id": 87,
-  "firstName": "Frances",
-  "lastName": "Lopez",
-  "assocSensor": "Wingscale"
+  "firstName": "Russell",
+  "lastName": "Mendoza",
+  "assocSensor": "metoprolol tartrate and hydrochlorothiazide",
+  "connectedToSensor": true
 }, {
   "id": 88,
-  "firstName": "Anthony",
-  "lastName": "Hicks",
-  "assocSensor": "isotretinoin"
+  "firstName": "Aaron",
+  "lastName": "Chapman",
+  "assocSensor": "Salicylic Acid",
+  "connectedToSensor": true
 }, {
   "id": 89,
-  "firstName": "Larry",
-  "lastName": "Castillo",
-  "assocSensor": "Zinc Sulfate"
+  "firstName": "Christina",
+  "lastName": "Mcdonald",
+  "assocSensor": "perphenazine",
+  "connectedToSensor": false
 }, {
   "id": 90,
-  "firstName": "Shirley",
-  "lastName": "Reynolds",
-  "assocSensor": "ALCOHOL"
+  "firstName": "Gary",
+  "lastName": "Pierce",
+  "assocSensor": "Atenolol",
+  "connectedToSensor": true
 }, {
   "id": 91,
-  "firstName": "Jacqueline",
-  "lastName": "Hamilton",
-  "assocSensor": "Acetaminophen"
+  "firstName": "Susan",
+  "lastName": "Morgan",
+  "assocSensor": "bacillus firmus",
+  "connectedToSensor": true
 }, {
   "id": 92,
-  "firstName": "Scott",
-  "lastName": "Tucker",
-  "assocSensor": "Dyphylline"
+  "firstName": "Ruth",
+  "lastName": "Gardner",
+  "assocSensor": "ALLANTOIN",
+  "connectedToSensor": true
 }, {
   "id": 93,
-  "firstName": "Jack",
-  "lastName": "Wheeler",
-  "assocSensor": "Triclosan"
+  "firstName": "Kathy",
+  "lastName": "Diaz",
+  "assocSensor": "TITANIUM DIOXIDE, ZINC OXIDE and OCTINOXATE",
+  "connectedToSensor": false
 }, {
   "id": 94,
-  "firstName": "Jacqueline",
-  "lastName": "George",
-  "assocSensor": "Lopinavir and Ritonavir"
+  "firstName": "Angela",
+  "lastName": "Mccoy",
+  "assocSensor": "ITRACONAZOLE",
+  "connectedToSensor": true
 }, {
   "id": 95,
-  "firstName": "Norma",
-  "lastName": "Greene",
-  "assocSensor": "Hickory Pollen Mixture"
+  "firstName": "Roger",
+  "lastName": "Murphy",
+  "assocSensor": "risperidone",
+  "connectedToSensor": false
 }, {
   "id": 96,
-  "firstName": "Anna",
-  "lastName": "Hernandez",
-  "assocSensor": "AMOXICILLIN"
+  "firstName": "Betty",
+  "lastName": "Phillips",
+  "assocSensor": "eprosartan mesylate",
+  "connectedToSensor": true
 }, {
   "id": 97,
-  "firstName": "Jennifer",
-  "lastName": "Myers",
-  "assocSensor": "Isopropyl Alcohol"
+  "firstName": "David",
+  "lastName": "Fowler",
+  "assocSensor": "Gentamicin Sulfate",
+  "connectedToSensor": false
 }, {
   "id": 98,
-  "firstName": "Robert",
-  "lastName": "Wheeler",
-  "assocSensor": "Potassium Chloride"
+  "firstName": "Annie",
+  "lastName": "Andrews",
+  "assocSensor": "carboxymethylcellulose sodium",
+  "connectedToSensor": false
 }, {
   "id": 99,
-  "firstName": "Albert",
-  "lastName": "Cooper",
-  "assocSensor": "Desipramine Hydrochloride"
+  "firstName": "Timothy",
+  "lastName": "Elliott",
+  "assocSensor": "Methadone Hydrochloride",
+  "connectedToSensor": false
 }, {
   "id": 100,
-  "firstName": "Paula",
-  "lastName": "White",
-  "assocSensor": "Clonidine Hydrochloride"
+  "firstName": "Michelle",
+  "lastName": "Torres",
+  "assocSensor": "MATRICARIA RECUTITA",
+  "connectedToSensor": true
 }]

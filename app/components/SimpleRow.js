@@ -10,8 +10,9 @@ import {
 const styles = StyleSheet.create({
   container: {
     backgroundColor: 'white',
-    padding: 12,
-    alignItems: 'center'
+    margin: 10,
+    alignItems: 'center',
+
   },
   text: {
     marginLeft: 12,
@@ -26,7 +27,7 @@ const styles = StyleSheet.create({
 });
 
 const SimpleRow = (props) => (
-        <TouchableHighlight
+        <TouchableHighlight style={styles.container}
           onPress={() => props.onSensorSelect({sensorName: props.sensorName})}>
             <View>
               <Image
@@ -36,5 +37,5 @@ const SimpleRow = (props) => (
             </View>
         </TouchableHighlight>
     );
-    
+
 export default SimpleRow;
