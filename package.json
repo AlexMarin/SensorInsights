@@ -7,9 +7,13 @@
     "test": "jest"
   },
   "dependencies": {
+    "art": "^0.10.1",
+    "d3": "^4.7.4",
+    "d3-shape": "^1.0.6",
     "react": "16.0.0-alpha.6",
-    "react-native": "0.43.1",
-    "react-navigation": "git+https://github.com/react-community/react-navigation.git"
+    "react-native": "0.43.3",
+    "react-navigation": "git+https://github.com/react-community/react-navigation.git#master",
+    "socket.io-client": "^1.7.3"
   },
   "devDependencies": {
     "babel-jest": "19.0.0",

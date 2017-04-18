@@ -14,14 +14,14 @@ export const AppNav = StackNavigator({
   },
   PacientList: {
     screen: PacientList,
-    navigationOptions: {
-      title: ({state}) => `${state.params.sensorName.toUpperCase()}`
-    }
+    navigationOptions: ({navigation}) => ({
+      title: `${navigation.state.params.sensorName.toUpperCase()}`
+    })
   },
   SensorDetails: {
     screen: SensorDetails,
-    navigationOptions: {
-      title: ({state}) => `${state.params.pacientName.toUpperCase()}`
-    }
+    navigationOptions: ({navigation}) => ({
+      title: `${navigation.state.params.pacientName.toUpperCase()}`
+    })
   }
 });
